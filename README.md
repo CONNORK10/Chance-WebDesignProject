@@ -10,6 +10,8 @@ To design a 3D speedrunning game where the player's objective is to complete the
 
 The game emphasizes speed, agility, and efficient use of collected tools to reach the finish line in record time. With minimal distractions, the design prioritizes an engaging player experience by incorporating interactive elements that enhance the game’s excitement without overwhelming the player.
 
+// Second sentence in line 11 is a little robotic. 
+
 ---
 
 ## The Design Process
@@ -45,6 +47,8 @@ This game is intended for a broad audience:
 - **Palette:** Neon blues, purples, and pinks against darker backgrounds to create high contrast, emphasizing speed and excitement.
 - **Psychology:** The color scheme conveys a sense of urgency and action, which aligns with the game’s high-paced nature.
 
+//I think you should a wider and more diverse selection of colors and maybe different aesthetics. Like make different aesthetic type available such as a jungle type background something like that. People might get sick of the same background.
+
 #### Typography
 - **Font Style:** Sleek, modern fonts with strong readability for HUD elements and leaderboard text.
 - **Consistency:** Fonts will maintain a uniform style across menus, in-game popups, and leaderboard displays.
@@ -52,6 +56,8 @@ This game is intended for a broad audience:
 #### Layout
 - **Game UI:** Minimalist, with only essential HUD elements (time, collected resources, and player position) displayed. The leaderboard is accessible from the main menu and end screens.
 - **Ease of Navigation:** A clear main menu with options to start the game, view leaderboards, and adjust settings. Simple and intuitive.
+
+//Maybe have some feature where you can change the character design and you can unlock new clothes or things to add to your character
 
 ---
 
